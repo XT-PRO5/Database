@@ -1,2 +1,0 @@
-# Database
-XT-PRO
